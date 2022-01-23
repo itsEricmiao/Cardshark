@@ -6,4 +6,5 @@ This tally of cards allows the player to make intelligent assumptions about the 
 
 As a disclaimer we acknowledge that such an app should never be used for actual card counting in a real situation. This app is just for fun in an informal setting.
 
-Team: Josh Sylvester, Eric Miao, Canon Ellis
+# Team:
+Josh Sylvester, Eric Miao, Canon Ellis
